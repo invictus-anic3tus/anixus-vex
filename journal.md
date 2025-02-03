@@ -34,7 +34,7 @@ Next, I looked for extruders. I went with the Orbiter v1.5, since it's smaller a
 
 I started CAD-ing, and got only the hotend and extruder in their places :P
 
-Research and parts: 3 hrs
+Research and parts: 3 hrs  
 CAD: 30 minutes
 
 # day 2
@@ -48,5 +48,9 @@ I looked for some linear rods and got a good idea of pricing, although I haven't
 
 Yes, that's nearly the budget right there, without any extrusions or cables or anything. I think I can fit the extrusions and such in the $60, but it may be tight. We'll have to see!
 
-Research and parts: 3 hrs
+(Later) OK I did some MORE research and decided to go back to the BigTreeTech SKR E3 Mainboard and host both off my one Rpi. If it goes bad, I'll buy a Rpi Zero W.  
+I figured out some stuff with part cooling and whatnot, readjusted the CAD, got the printhead semi-set up, and more! Well that's it for today.
+
+Research and parts: 4.5 hrs  
+CAD: 1.5 hrs
 
