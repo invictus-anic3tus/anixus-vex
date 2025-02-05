@@ -2,6 +2,11 @@
 
 This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Let's give them a hand! 👏👏👏
 
+Made by: @anicetus
+Repository link: https://github.com/invictus-anic3tus/anixus-vex
+Total hours so far: 12
+ - ✅ I have a 3D printer
+
 # about the anixus vex
 
 I'm Anicetus, and I'm making a CoreXY because my Anycubic Kobra 2 Neo doesn't print over 250mm/s and can't print hotter than PETG. This will change all of that.
@@ -60,6 +65,8 @@ Today was mainly a research day (again.) This is me the following morning becaus
 Anyways, I did a lot of research on the best motors for my setup and found a really good deal for 3 for about $25, and they're strong enough to let me go around 430mm/s straight. If you want the link DM me or check the BOM spreadsheet above  
 
 Then I started CAD-ing, and I've got nearly the entire printhead set up! I think I'm going to use a CFD to simulate the fan airflow just to make sure it works, but other than that I need to add the BLTouch, some PETG framing, and I'll be essentially done there. Also, cable management 😬
+
+![printhead](https://cloud-eaq9rc33e-hack-club-bot.vercel.app/0image.png)
 
 Research + parts: 4 hrs
 CAD: 2 hrs
