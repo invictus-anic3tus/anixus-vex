@@ -6,9 +6,9 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 I'm Anicetus, and I'm making a CoreXY because my Anycubic Kobra 2 Neo doesn't print over 250mm/s and can't print hotter than PETG. This will change all of that.
 
-🕐Speed I want: >350mm/s (probably can get faster)  
-📐Build size I want: >300mm<sup>3</sup> (maybe not, may have to go 250mm<sup>3</sup>)  
-👍Materials I want to print with: TPU, PLA, PETG, HIPS (maybe,) PVA (probably not)  
+🕐 Speed I want: >350mm/s (probably can get faster)  
+📐 Build size I want: >300mm<sup>3</sup> (maybe not, may have to go 250mm<sup>3</sup>)  
+👍 Materials I want to print with: TPU, PLA, PETG, HIPS (maybe,) PVA (probably not)  
 
 
 You may be wondering where I got the name "Anixus Vex." It seems rather strange.  
@@ -21,7 +21,7 @@ Again, a short, fiery, awesome name.
 
 OK, good. Down to business.
 
-# day 1
+# day 1 - feb 2 '25
 Today I'm researching some parts!! Good stuff. I think ima use the Phaetus Rapido ACE hotend and BTT SKR E3 mainboard. Other than that, I have no idea.
 
 The Rapido ACE HF is built for ~45mm<sup>3</sup>/s printing, which is really really fast and happy. I may upgrade to the UHF if I'm underbudget and want to go 75mm<sup>3</sup>/s.
@@ -37,7 +37,7 @@ I started CAD-ing, and got only the hotend and extruder in their places :P
 Research and parts: 3 hrs  
 CAD: 30 minutes
 
-# day 2
+# day 2 - feb 3 '25
 I started today off by doing some research! Some Slack members told me that the Orbiter v1.5 wasn't going to cope with the high-flow Rapido Ace, so I decided to look for a new power pair.
 
 I asked ChatGPT about some stuff, and it pointed me eventually to the Orbiter v2.0 and the Phaetus Dragonfly BMS, getting closer to 450mm/s which is pretty nice! The Dragonfly can also get to around 300°C, which is perfect for PETG and some hotter filaments.
@@ -54,3 +54,17 @@ I figured out some stuff with part cooling and whatnot, readjusted the CAD, got 
 Research and parts: 4.5 hrs  
 CAD: 1.5 hrs
 
+# day 3 - feb 4 '25
+Today was mainly a research day (again.) This is me the following morning because I forgot to update 😁
+
+Anyways, I did a lot of research on the best motors for my setup and found a really good deal for 3 for about $25, and they're strong enough to let me go around 430mm/s straight. If you want the link DM me or check the BOM spreadsheet above  
+
+Then I started CAD-ing, and I've got nearly the entire printhead set up! I think I'm going to use a CFD to simulate the fan airflow just to make sure it works, but other than that I need to add the BLTouch, some PETG framing, and I'll be essentially done there. Also, cable management 😬
+
+Research + parts: 4 hrs
+CAD: 2 hrs
+
+# day 4 - feb 5 '25
+Today I worked on the BOM a bit and researched where I might find cheaper parts. I think I over-calculated how expensive the frame will be (hopefully) so maybe I'll get out of debt? Worst case I spend 30 bucks out of my pocket.  
+
+I have plenty of doubloons from High Seas, but DigiKey and the rest don't seem to have great parts. Surprisingly, DigiKey has absolutely no 3D printer mainboards, and the stepper motors they have aint worth squat.
