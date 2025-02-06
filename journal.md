@@ -74,4 +74,6 @@ CAD: 2 hrs
 # day 4 - feb 5 '25
 Today I worked on the BOM a bit and researched where I might find cheaper parts. I think I over-calculated how expensive the frame will be (hopefully) so maybe I'll get out of debt? Worst case I spend 30 bucks out of my pocket.  
 
-I have plenty of doubloons from High Seas, but DigiKey and the rest don't seem to have great parts. Surprisingly, DigiKey has absolutely no 3D printer mainboards, and the stepper motors they have aint worth squat.
+I have plenty of doubloons from High Seas, but DigiKey and the rest don't seem to have great parts. Surprisingly, DigiKey has absolutely no 3D printer mainboards, and the stepper motors they have aint worth squat. The rest of the time was basically just CAD, with a side-tangent to try an airflow simulator. I decided not to, though, because I was lazy. I worked on the fans, connected it to the linear rail, and made my logos!
+
+![vex logo](https://cloud-3vcb9x7yd-hack-club-bot.vercel.app/0vex-logo.png)
