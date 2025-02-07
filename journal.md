@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 17
+Total hours so far: 18.5
  - ✅ I have a 3D printer
 
 # about the anixus vex
@@ -80,3 +80,17 @@ Research and parts: 2 hrs
 CAD: 3 hrs
 
 ![vex logo](https://cloud-3vcb9x7yd-hack-club-bot.vercel.app/0vex-logo.png)
+
+# day 5 - feb 6 '25
+Today I didn't do a whole lot because of schoolwork and other projects. I CAD-ed a little and that's basically it.
+
+CAD: 1.5 hrs
+
+# day 6 - feb 7 '25
+Today I had a stroke of genius *ok maybe just a stroke* and I decided to make the Vex a dedicated **upside-down** CoreXY! It's mainly for print farms and stuff because when the bed cools, the printhead just gives it a little nudge and the print falls right off! Also it just looks cool.
+
+I'll probably make it reversable so you can print like a normal person if you want, with feet that can be put on either side and a removable Klipper host/screen. This does mean using linear rods instead of rails, though, so it may get more expensive? Idk.
+
+Anyways, I'm still deciding on whether to have the motors upside down as well as the printhead, because if they're right side up (from your view), they're sitting on the desk/ground, but the carriage is reversed. This means that the model is effectively flipped X and Y (rotated 180 degrees) which may be an issue? I don't know. Probably not, right? RIGHT??
+
+Either way linear rods are a good thing to do so that's what I'm doing.
