@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 18.5
+Total hours so far: 19.5
  - ✅ I have a 3D printer
 
 # about the anixus vex
@@ -94,3 +94,11 @@ I'll probably make it reversable so you can print like a normal person if you wa
 Anyways, I'm still deciding on whether to have the motors upside down as well as the printhead, because if they're right side up (from your view), they're sitting on the desk/ground, but the carriage is reversed. This means that the model is effectively flipped X and Y (rotated 180 degrees) which may be an issue? I don't know. Probably not, right? RIGHT??
 
 Either way linear rods are a good thing to do so that's what I'm doing.
+
+(LATER) I did a lot of research and apparently upside down corexys are a really bad idea. Welp. It's OK, I'll do normal CoreXY and use linear rails still because they're also apparently good for speed and such. I did a tiny bit of CAD
+
+Research: 2 hrs
+CAD: 30 min
+
+# day 7 - feb 9 '25
+Yesterday I had an all-day D Now (Disciple Now) with my church which was very very fun!! No work though.
