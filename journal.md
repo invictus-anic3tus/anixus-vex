@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 21.5
+Total hours so far: 24 :D
  - ✅ I have a 3D printer
 
 # about the anixus vex
@@ -113,3 +113,12 @@ My current printhead setup:
 ![printhead](https://cdn.hack.pet/U07GPJ6V3UZ/printhead.png)
 
 CAD: 1 hr
+
+# day 9 - feb 12 '25
+Again, I haven't been doing a whole lot of this due to printboard, but I was able to get the linear rail mounting and a little bit of the hotend screw mounting figured out. Some pics:
+
+
+![printhead picture](https://cdn.hackclubber.dev/slackcdn/0f6654d1a2b6a3a793b17d9be6afb554.png)
+![mounting picture](https://cdn.hackclubber.dev/slackcdn/a26d3902d9a992ea64293aed2e87f950.png)
+
+CAD: 2.5 hrs
