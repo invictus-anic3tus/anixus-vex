@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 31.5
+Total hours so far: 34.5
  - ✅ I have a 3D printer
 
 # about the anixus vex
@@ -138,3 +138,13 @@ Anyways, today was a big CAD day. I did research some mechanics, like the z-scre
 
 Research: 2 hrs
 CAD: 2 hrs
+
+# day 12 - feb 15
+Today I only researched stuff, as my hotend turns out <i>isn't</i> high-flow like ChatGPT said it was, and I needed to find a new one asap. Also researched frame parts and some kinematics!
+
+Research: 3 hrs
+
+# day 13 - feb 17
+After finallllly getting my printboard submission in yesterday, today I can work fully on CAD and research. All I have left to do on the printhead is the BLTouch, belts, and accelerometer! I finished adjusting for the new hotend, the TZ E3 2.0, which doesn't get the 45mm<sup>3</sup>/s that I hoped for in the beginning, but gets 33mm<sup>3</sup>/s (according to the seller.)
+
+I'm expecting probably 30mm<sup>3</sup>/s out of it, which is plenty for what I want.
