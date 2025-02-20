@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 42.5
+Total hours so far: 46
  - ✅ I have a 3D printer
 
 ### about the anixus vex
@@ -165,3 +165,15 @@ I finally got the hotend to fit! I also mounted the BLTouch and the acceleromete
 I also did more to improve tolerances and printablility. I decided to wire the accelerometer through a little printhead tunnel, which is 1) cute and 2) saves space :3
 
 CAD: 2.5 hrs
+
+## day 15 - feb 20
+WOOOOOOOOOOOOOOOOOOOO  
+I got the printhead done :D
+
+I do still have to do the belts, but I'm saving that for when I get my gantry figured out. I also did a little bit of the frame! Pic:
+
+![frame with printhead](https://cdn.hackclubber.dev/slackcdn/404ca1ab919aa36960e3d61a59125e0a.png)
+
+This thing is really coming together!!!
+
+CAD: 3.5 hrs
