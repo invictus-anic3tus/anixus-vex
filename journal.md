@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 46
+Total hours so far: 49.5
  - ✅ I have a 3D printer
 
 ### about the anixus vex
@@ -166,14 +166,16 @@ I also did more to improve tolerances and printablility. I decided to wire the a
 
 CAD: 2.5 hrs
 
-## day 15 - feb 20
+## days 15 + 16 - feb 20 + 21
 WOOOOOOOOOOOOOOOOOOOO  
 I got the printhead done :D
 
-I do still have to do the belts, but I'm saving that for when I get my gantry figured out. I also did a little bit of the frame! Pic:
+I do still have to do the belts, but I'm saving that for when I get my gantry figured out. I also did a bunch of the frame! Pic (20th):
 
 ![frame with printhead](https://cdn.hackclubber.dev/slackcdn/404ca1ab919aa36960e3d61a59125e0a.png)
 
 This thing is really coming together!!!
 
-CAD: 3.5 hrs
+All I have left to do with the z-axis is add the linear rods and attach them to the bed. The gantry is looking quite daunting, but I guess I'll cross that bridge when I get to it. So far, the build size is 230x230x280mm, which is way bigger than my current printer (220x220x250mm)! Good deal.
+
+CAD: 7 hrs
