@@ -179,3 +179,11 @@ This thing is really coming together!!!
 All I have left to do with the z-axis is add the linear rods and attach them to the bed. The gantry is looking quite daunting, but I guess I'll cross that bridge when I get to it. So far, the build size is 230x230x280mm, which is way bigger than my current printer (220x220x250mm)! Good deal.
 
 CAD: 7 hrs
+
+## z-axis and electronics days
+
+### days 17 - 20 - feb 22 - 24
+These days I got finally got the Z-axis done! Connected the linear rods to the bed, the lead screw to the bed, all sorts of good stuffs.
+
+### day 21 + 22 - feb 25 + 26
+Got most of the electronics done!!
