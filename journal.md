@@ -4,16 +4,16 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 49.5
+Total hours so far: 67
  - ✅ I have a 3D printer
 
 ### about the anixus vex
 
 I'm Anicetus, and I'm making a CoreXY because my Anycubic Kobra 2 Neo doesn't print over 250mm/s and can't print hotter than PETG. This will change all of that.
 
-🕐 Speed I want: >350mm/s (probably can get faster)  
-📐 Build size I want: >300mm<sup>3</sup> (maybe not, may have to go 250mm<sup>3</sup>)  
-👍 Materials I want to print with: TPU, PLA, PETG, HIPS (maybe,) PVA (probably not)  
+🕐 Speed: 400mm/s  
+📐 Build size: 230mm x 230mm x 260mm  
+👍 Materials I want to print with: TPU, PLA, PETG, HIPS (maybe), PVA (probably not)  
 
 
 You may be wondering where I got the name "Anixus Vex." It seems rather strange.  
@@ -185,5 +185,10 @@ CAD: 7 hrs
 ### days 17 - 20 - feb 22 - 24
 These days I got finally got the Z-axis done! Connected the linear rods to the bed, the lead screw to the bed, all sorts of good stuffs.
 
-### day 21 + 22 - feb 25 + 26
+CAD: 10 hrs
+
+### day 21 - 23 - feb 25 - 27
 Got most of the electronics done!!
+Mounted PSU and mainboard, added a fuse and a power cable thingy!
+
+CAD: 7.5 hrs
