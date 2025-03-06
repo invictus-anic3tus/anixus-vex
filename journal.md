@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anixus-vex  
-Total hours so far: 67
+Total hours so far: 82
  - ✅ I have a 3D printer
 
 ### about the anixus vex
@@ -192,3 +192,8 @@ Got most of the electronics done!!
 Mounted PSU and mainboard, added a fuse and a power cable thingy!
 
 CAD: 7.5 hrs
+
+### days 24 - 29 - feb 28 - march 6
+I know my updates are getting less frequent, but there's really not a lot to update _on_. I did get all the electronics finished, as well as adding an integrated two-port power strip for the rpi and the filament dryer. I also got an idea of how the gantry will work and fixed some Z-axis stuffs.
+
+CAD: 15 hrs
