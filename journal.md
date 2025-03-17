@@ -3,21 +3,20 @@
 This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Let's give them a hand! 👏👏👏
 
 Made by: @anicetus  
-Repository link: https://github.com/invictus-anic3tus/anixus-vex  
+Repository link: https://github.com/invictus-anic3tus/anicept-vex  
 Total hours so far: 82
  - ✅ I have a 3D printer
 
-### about the anixus vex
+### about the anicept vex
 
 I'm Anicetus, and I'm making a CoreXY because my Anycubic Kobra 2 Neo doesn't print over 250mm/s and can't print hotter than PETG. This will change all of that.
 
 🕐 Speed: 400mm/s  
 📐 Build size: 230mm x 230mm x 260mm  
-👍 Materials I want to print with: TPU, PLA, PETG, HIPS (maybe), PVA (probably not)  
+👍 Materials I want to print with: anything up to 300°C! Mainly pla, petg, and tpu
 
-
-You may be wondering where I got the name "Anixus Vex." It seems rather strange.  
-First of all, the first word is a play on my name, Anicetus (which means unconquerable in Latin). It's basically just compressed to three syllables. Next, "Nixus" is Latin for "soaring" or "effort," invoking a powerful vibe. "Nexus" is also the English (and Latin) word for the hub or the connection between things, which makes sense for an FDM printer that connects things! Also sounds really cool.  
+You may be wondering where I got the name "Anicept Vex." It seems rather strange.  
+First of all, the first word is a play on my name, Anicetus (which means unconquerable in Latin). It's basically just compressed to three syllables. "Cept" comes from concept, invoking thought and power. It's also super cool sounding.
 The second word, "vex," is English (and Latin!!) for making somebody annoyed or frustrated, as you probably know.  
 It gives off a vibe of hot, fast anger, speedy and deliberate. Another Latin translation for it is to rouse or to excite, again invoking heat and agility. It is also a shortening of "vexare," the Latin word meaning agitation or shaking.  
 
@@ -197,3 +196,22 @@ CAD: 7.5 hrs
 I know my updates are getting less frequent, but there's really not a lot to update _on_. I did get all the electronics finished, as well as adding an integrated two-port power strip for the rpi and the filament dryer. I also got an idea of how the gantry will work and fixed some Z-axis stuffs.
 
 CAD: 15 hrs
+
+## days 24 - 34 - feb 28 - mar 16
+wow... I'm being very bad about updating. I'm so sorry! Tomorrow I'll post a butt ton of pictures that will mark my progress. _my screenshots folder is getting kinda big..._
+
+but over these days, I've all but finished the printer. I finalized the z-axis and attached the x-aluminum extrusion to the y-gantry. I've mounted the gantry on top of the aluminum extrusions to save space and mounted most of the idlers.
+
+So far, here's what I have left:
+1) Finish mounting the idlers that attach to the y-linear rods
+2) Mount the motors
+3) Create belt models
+4) Mount the belts to the printhead
+5) Redo some text on the underside of the plate holder
+6) Research M5 screws and assorted inserts
+7) See what lengths of screws to get
+8) Buy parts!
+And then design will be done!
+Not so hard.... right?
+
+oh yeah, and funny thing this printer was originally called the anicept vex! I like the current name better, and decided the new one on March 16th. If you go thru this repo's commits you can see the previous name ;)
