@@ -4,7 +4,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
-Total hours so far: 82
+Total hours so far: 102
  - ✅ I have a 3D printer
 
 ### about the anicept vex
@@ -214,4 +214,129 @@ So far, here's what I have left:
 And then design will be done!
 Not so hard.... right?
 
-oh yeah, and funny thing this printer was originally called the anicept vex! I like the current name better, and decided the new one on March 16th. If you go thru this repo's commits you can see the previous name ;)
+oh yeah, and funny thing this printer was originally called the anixus vex! I like the current name better, and decided the new one on March 16th. If you go thru this repo's commits you can see the previous name ;)
+
+CAD: 15 hrs, research 5 hrs
+
+## pictures!! my timeline of printer 🥲
+
+Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1606de4940ed5a146b976a6f102ae7194444790e_screenshot_2025-02-02_182817.png)
+</br>
+</br>
+</br>
+
+The earliest full revision of my printhead!
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef1a7a00ad13aab12d308e6f1773b24e09f19e29_screenshot_2025-02-04_170418.png)
+</br>
+</br>
+</br>
+
+Created two logos (one for the earlier name of Anixus and one for the Vex,) reoriented the linear rail, finalized the front panel, and made the top panel!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f1b0b42727a257a6e56509bf5444474f4f7a0b3_screenshot_2025-02-11_174838.png)
+</br>
+</br>
+</br>
+
+COLOR!!!!!!!!!!!!!
+
+![COLOR!!!!!!!!!!!!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de7697b2c68818bd0c6183cb052fc8570c410a30_screenshot_2025-02-12_170300.png)
+</br>
+</br>
+</br>
+
+Aha the backing
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6346dc79eab17be685cdb2af4f4d06587416aa69_screenshot_2025-02-12_171053.png)
+</br>
+</br>
+</br>
+
+mounted the ADXL and 3DTouch!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/790ab72b294016c9dc86bdb197f13a021c3a5e13_screenshot_2025-02-19_164007.png)
+</br>
+</br>
+</br>
+
+wow! started on the frame! looks kinda ugly and fat :b
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/461de71477c5a21b166ecbc61b7e7d2fb9457e42_screenshot_2025-02-20_172430.png)
+</br>
+</br>
+</br>
+
+looking better! got the z-axis motor and gantry in place
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f98c083ec2269ffe7c159d353498b47956183ed7_screenshot_2025-02-22_143522.png)
+</br>
+</br>
+</br>
+
+placed and mounted the PSU, z-motor, linear rods, and the mainboard!!!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3873b448ed1191135501498cff11c9419b0063c8_screenshot_2025-02-26_161859.png)
+</br>
+</br>
+</br>
+
+Ah... the power panel PCB. Didn't turn out to work, but I learnred some about buck converters!
+
+![sad](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0197595bc2aaa76708569f23b57206c1f7462d31_screenshot_2025-03-03_174815.png)
+</br>
+</br>
+</br>
+
+Wh-what's this?? A power strip built into a 3d printer?? Amazing!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5bc39fa00f8e61820d3f5a61bb8d1b831fb7147_screenshot_2025-03-06_154357.png)
+</br>
+</br>
+</br>
+
+3DTouch didn't work 😭  
+Turns out those Chinese clones aren't worth it... I went Klicky!!!!!!!!!!!!!!!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a38616c23ed12e614ae79b3dfcfa3dcd49cccad5_screenshot_2025-03-09_170147.png)
+</br>
+</br>
+</br>
+
+Mounted the linear rails and connected the x-axis to the y! Also started them idlers :3
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d82f3d5e6bc73728c7ef85bf4986da288f6e3a91_screenshot_2025-03-11_155645.png)
+</br>
+</br>
+</br>
+"What questionable design considerations?" -Anicetus, 20xx - 2025
+
+![💀](https://hc-cdn.hel1.your-objectstorage.com/s/v3/38b1981f7d686146327da0ac0ee80e31f80e0576_screenshot_2025-03-12_155632.png)
+</br>
+</br>
+</br>
+
+✨Mystical Castle Idler!✨
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb8dd330cba161304122183a95105661d2ef0f3e_screenshot_2025-03-12_165403.png)
+</br>
+</br>
+</br>
+
+So many different logos! (I went the all-bold one :D)
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02842b59596d9e134741baa2837ebf098a9f941b_screenshot_2025-03-17_145359.png)
+</br>
+</br>
+</br>
+
+Wow! Beautiful render
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6965fd7ac766bb53ed822808b5c1b88a1dec5f4e_screenshot_2025-03-18_155136.png)
+</br>
+</br>
+</br>
+
+That's quite a bridge to gap,,,
+
+![uhoh](https://hc-cdn.hel1.your-objectstorage.com/s/v3/426656da9cbad3609a97db1f1353591fadfdea3a_screenshot_2025-03-19_154424.png)
